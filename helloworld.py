@@ -1,4 +1,15 @@
-# replace the contents of this comment with your full name
+# haley hager
+
+print('Hello!')
+
+print('For Latin, press 1.')
+print('For French, press 2.')
+print('For German, press 3.')
+
+salve = '1'  #store values in the variables
+salut = '2'
+hallo = '3'
+
 
 # write a program that:
 # 1. greets the user in English

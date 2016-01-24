@@ -1,15 +1,16 @@
 # haley hager
 
-print('Hello! Choose your language:')
+print('Hello!')
 
 print('For Latin, press 1.')
 print('For French, press 2.')
 print('For German, press 3.')
-    
-Language = 'English'
-if Language == '1':
-    print('Salve')
-if Language == '2':
-    print('Salut')
-if Language == '3':
-    print('Hallo')
+
+print('Which language would you like?:')
+language = input()
+if language == '1':
+    print('Salve!')
+if language == '2':
+    print('Salut!')
+if language == '3':
+    print('Hallo!')
